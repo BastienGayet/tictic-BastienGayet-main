@@ -12,6 +12,9 @@ const kItalicText = TextStyle(
 const kButtonStyle = TextStyle(
     fontSize: 16, fontWeight: FontWeight.w600, color: kBackgroundColor);
 
+const kButtonStyle2 = TextStyle(
+    fontSize: 16, fontWeight: FontWeight.w600, color: kSecondaryColor);
+
 const kLabelStyle =
     TextStyle(color: kMainColor, fontWeight: FontWeight.w500, fontSize: 18);
 
